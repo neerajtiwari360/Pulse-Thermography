@@ -8,3 +8,10 @@ diffusion, under the surface and also because of radiation and convection losses
 a defect reduces the diffusion rate so that when observing the surface temperature, defects appear
 as areas of different temperatures with respect to surrounding sound areas once the thermal front
 has reached them.
+
+Defected material for defect detection
+![alt text](IMG_20171229_104648~2.jpg)
+![alt text](IMG_20171229_104743~2.jpg)
+
+Result
+![alt text](fig2.png)
