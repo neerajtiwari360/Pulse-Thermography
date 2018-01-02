@@ -16,4 +16,4 @@ Defected material for defect detection
 Result
 ![alt text](fig2.png)
 
- Detail discription in thr .ppt file in the folder 
+ Detail discription in the .ppt file of the folder 
